@@ -77,6 +77,16 @@ These visualizations provide a clearer view of both the dataset and how well the
 
 ## What This Project Demonstrates
 
+## Author
+
+Harsh Kanase -B.Tech Information Technology
+
+Interested in Machine Learning, AI, Data Science and Full-Stack Development.
+
+⭐ Feel free to check out the project and explore the notebook!
+
+
+
 This project demonstrates the practical implementation of a complete Deep Learning workflow, from preparing image data to designing, training, evaluating, and visualizing a CNN-based Computer Vision model.
 
 It also provides a foundation for understanding more advanced areas of Artificial Intelligence, including image recognition, object detection, transfer learning, and modern Computer Vision systems.
