@@ -6,7 +6,7 @@ The goal of this project is not just to build a model that predicts images, but 
 
 ## Project Overview
 
-CIFAR-10 contains 60,000 color images belonging to 10 classes:
+CIFAR-10 contains 60,000 color images belonging to 10 classes :
 
 `airplane`, `automobile`, `bird`, `cat`, `deer`, `dog`, `frog`, `horse`, `ship`, and `truck`.
 
