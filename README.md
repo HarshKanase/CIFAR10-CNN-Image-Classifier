@@ -20,7 +20,7 @@ The project follows the complete machine learning workflow:
 
 The model learns features directly from the images through multiple convolutional layers.
 
-The architecture consists of:
+The architecture consists of :
 
 * Input: 32 × 32 × 3 RGB image
 * Convolutional Layer: 3 → 32 filters
